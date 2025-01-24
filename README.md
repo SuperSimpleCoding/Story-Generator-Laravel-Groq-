@@ -26,7 +26,7 @@ Features:
 
 ## Demo
 
-[Watch the video](./videos/demo.mp4)
+[Watch the video](./videos/output.mp4)
 
 
 
