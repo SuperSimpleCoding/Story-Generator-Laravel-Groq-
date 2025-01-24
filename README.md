@@ -26,9 +26,12 @@ Features:
 
 ## Demo
 
-[Watch the video](./videos/output.mp4)
+Watch the demo video below:
 
-
+<video width="640" height="360" controls>
+  <source src="./videos/output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
