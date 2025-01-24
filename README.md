@@ -26,7 +26,7 @@ Features:
 
 ## Demo
 
-[Watch the video](./videos/demo.mp4)
+[[Watch the video](./videos/demo.mp4)](https://github.com/user-attachments/assets/37e6936e-324d-4d7d-9173-3e36daaa957a)
 
 
 
